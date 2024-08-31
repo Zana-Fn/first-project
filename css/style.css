@@ -182,7 +182,7 @@ nav [class*="fa-"]:hover {
 }
 
 .button-scaling {
-  transition: all 100ms ease-in 20ms, color 100ms ease-in 8ms;
+  transition: all 100ms ease-in 25ms, color 100ms ease-in 8ms;
 }
 
 .button-scaling:hover {
@@ -190,7 +190,7 @@ nav [class*="fa-"]:hover {
 }
 
 #button-scaling {
-  transition: all 100ms ease-in 20ms;
+  transition: all 100ms ease-in 25ms;
 }
 
 #button-scaling:hover {
@@ -198,7 +198,7 @@ nav [class*="fa-"]:hover {
 }
 
 #play-game {
-  transition: all 100ms ease-in 20ms;
+  transition: all 100ms ease-in 25ms;
   display: inline-block;
 }
 
