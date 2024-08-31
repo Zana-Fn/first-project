@@ -63,19 +63,17 @@ body {
     display: flex;
 }
 
-section {
+/*section {
     position: relative;
-}
+}*/
 
 #keyboard-cont {
     margin: 1rem 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-    position: absolute;
-    top: 100%;
-    right: 50%;
-    left: 50%;
+    position: relative;
+    bottom: 1%;
 }
 
 #keyboard-cont div {
